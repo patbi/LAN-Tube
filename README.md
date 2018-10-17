@@ -36,6 +36,7 @@ How to install
 	
 	- Look for the file 'php.ini' and increase the file size to the max you whish to have(E.g 2048MB). this file i generally found in 'C:\xampp\php' directory for XAMPP.
 	- Once ther open the file and search for 'post_max_size' and 'upload_max_filesize'. You can now start editing.
+	- Restart your saver.
 - Launch the website and enjoy!
 
 
