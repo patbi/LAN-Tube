@@ -18,8 +18,8 @@
     <div class="btn-group btn-group-justified">
       <a href="index.php" class="btn btn-success">Home</a>
       <a href="videos/uploads.php" class="btn btn-primary">Uploads</a>
-      <a href="#" class="btn btn-primary">Library</a>
-      <a href="#" class="btn btn-info">About</a>
+      <a href="sharefiles.php" class="btn btn-info">Share files</a>
+      <a href="about.php" class="btn btn-success">About</a>
     </div>
 
 
@@ -125,6 +125,8 @@ p {font-size: 16px;}
   </div>
 </div>
 </div>
+
+
 
 
     <hr>
