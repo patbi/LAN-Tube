@@ -106,21 +106,21 @@ p {font-size: 16px;}
     <center>
     <img src="images/icons/free.png" class="img-responsive margin" style="width:30%" alt="Image1">
     <h3>It's cool and FREE!</h3>
-    <p><strong>LAN Tube</strong> is an Open source project. Watch on video file on any device connected to the same LAN with <strong>LAN Tube</strong>.</p>
+    <p><strong>LAN Tube</strong> is an Open source project. Watch any video file on any device connected to the same LAN with <strong>LAN Tube</strong>.</p>
     </center>
   </div>
   <div class="col-sm-4">
     <center>
     <img src="images/icons/storage.png" class="img-responsive margin" style="width:30%" alt="Image2">
     <h3>One storage point</h3>
-    <p>Practically stores you movies on the saver machine giving you free space on any of your other devices.</p>
+    <p>Practically stores your movies on the server machine giving you free space on any of your other devices.</p>
     </center>
   </div>
   <div class="col-sm-4">
     <center>
     <img src="images/icons/sharing-files.png" class="img-responsive margin" style="width:30%" alt="Image3">
     <h3>LAN view expirience</h3>
-    <p>Watch your Video file across any device connected to your LAN network. enjoy!</p>
+    <p>Watch your Video file across any device connected to your LAN network simultaneously with your peers. enjoy!</p>
   </center>
   </div>
 </div>
